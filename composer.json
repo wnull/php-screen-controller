@@ -1,0 +1,12 @@
+{
+    "name": "wnull/php-screen-controller",
+    "description": "Package management utility <screen>. Start, kill, and process list.",
+    "type": "package",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "files": ["src/ScreenController.php"]
+    }
+}
